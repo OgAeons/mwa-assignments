@@ -1,0 +1,7 @@
+#slideContent {
+    background-color: beige;
+    overflow: hidden;
+    transition: max-height 0.5s ease; 
+    max-height: 20px; 
+}
+   
